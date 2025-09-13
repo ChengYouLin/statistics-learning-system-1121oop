@@ -22,18 +22,18 @@
 
 1. 進入畫面後會引導使用者，選擇與輸入想要使用的子內容
 
-[demo1](pic/8.png)
+![demo1](pic/8.png)
 
 2. 引導使用者輸入資料集與相關資料的資訊
 
-[demo2](pic/9.png)
+![demo2](pic/9.png)
 
 3. 提示使用者在該子主題中，可能會需要知道的幾項觀念與檢定內容供選擇
    - 選擇後會呈現對應的結果，並且詢問使用者是否需要解釋
    - 解釋部分會先以較為嚴謹的數學相關的統計推論（並利用符號與英文解釋），最後再以易懂的中文做總結。
 
-[demo3~7](pic/3.png)
-[demo3~7](pic/4.png)
-[demo3~7](pic/5.png)
-[demo3~7](pic/6.png)
-[demo3~7](pic/7.png)
+![demo3~7](pic/3.png)
+![demo3~7](pic/4.png)
+![demo3~7](pic/5.png)
+![demo3~7](pic/6.png)
+![demo3~7](pic/7.png)
